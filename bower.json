@@ -1,12 +1,10 @@
 {
     "name": "ngInfiniteScroll",
-    "main": "build/ng-infinite-scroll.js",
+    "main": "build/ng-infinite-scroll.min.js",
     "ignore": [
         "**/.*",
         "_*",
         "node_modules",
-        "compile",
-        "test",
         "Gruntfile.coffee",
         ".*"
     ],
